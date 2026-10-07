@@ -1,18 +1,17 @@
-### Hi, I'm Robin 👋
+Hi, I'm Robin 👋
 
-Frontend Tech Lead in Madrid 🇪🇸 — I build and scale a multi-tenant platform of
-**200+ sites and landing pages** with Next.js and TypeScript, with a healthy
-obsession for performance (~90 PageSpeed Mobile, 6x organic traffic growth).
+Senior Frontend Engineer, 11 years building for the web. These days mostly React, Next.js and TypeScript on high-traffic, multi-tenant products, where performance and technical SEO are part of the daily routine.
 
-- 🏗️ Day to day: frontend architecture (SSR/App Router, Clean Architecture),
-  multi-env CI/CD, observability (Sentry/Grafana)
-- 🤖 AI-augmented workflows: Claude Code + MCP for PR validation, agent-oriented
-  testing with Playwright
-- 📜 Anthropic certified: *Building with the Claude API* & *AI Capabilities and Limitations*
+🔭 Working on: a platform of 200+ sites and landing pages, chasing Core Web Vitals (~90 PageSpeed Mobile, 6x organic traffic)
 
-**Stack:** Next.js · React · TypeScript · Node · Azure · Playwright
+🤖 Exploring: AI-native development, orchestrating agents with Claude Code and MCP, and agent-driven testing with Playwright
 
-🔗 [LinkedIn](https://www.linkedin.com/in/robingomez) · 📬 robingomez05@gmail.com
+🏆 Proud of: building the web side of [PainVisible](https://www.vml.com/work/painvisible) (Innovation Lion, Cannes), [Dogs Without Borders](https://www.vml.com/work/dogs-without-borders) (Gold Lion, Cannes) and [Play for the Future](https://www.adsoftheworld.com/campaigns/play-for-the-future) for Greenpeace
 
-> ℹ️ Most of my professional work lives in private enterprise repos — happy to
-> talk about it in an interview.
+🌍 Based in: Madrid, Spain · 🇪🇸 🇬🇧
+
+💬 Happy to chat about: frontend performance, Next.js and AI tooling for dev teams
+
+📫 Reach me: robingomez05@gmail.com · [LinkedIn](https://www.linkedin.com/in/robingomez)
+
+<sub>Most of my code lives in private repos, so the green squares tell more of the story than the pinned ones.</sub>
