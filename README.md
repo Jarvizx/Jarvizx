@@ -8,8 +8,6 @@ Senior Frontend Engineer, 11 years building for the web. These days mostly React
 
 🏆 Proud of: building the web side of [PainVisible](https://www.vml.com/work/painvisible) (Innovation Lion, Cannes), [Dogs Without Borders](https://www.vml.com/work/dogs-without-borders) (Gold Lion, Cannes) and [Play for the Future](https://www.adsoftheworld.com/campaigns/play-for-the-future) for Greenpeace
 
-🌍 Based in: Madrid, Spain · 🇪🇸 🇬🇧
-
 💬 Happy to chat about: frontend performance, Next.js and AI tooling for dev teams
 
 📫 Reach me: robingomez05@gmail.com · [LinkedIn](https://www.linkedin.com/in/robingomez)
